@@ -58,6 +58,10 @@ This will cause you to follow the Pub and vise versa. If you haven't synchronize
 - **#patchwork**: report bugs, suggestions, etc
 - **#scuttlebutt**: protocol related discussion
 
+## Code of conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
 ## About This Handbook
 
 To view the public handbook, browse to [scuttlebutt.nz](https://www.scuttlebutt.nz)
